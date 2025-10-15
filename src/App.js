@@ -1,5 +1,5 @@
 import React from 'react';
-import WildEastGame from '../WildEastGame';
+import WildEastGame from './WildEastGame';
 
 function App() {
   return (
